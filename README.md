@@ -1,4 +1,4 @@
-neurony
-=======
+#Awesome Panel
+This is an awesome panel
 
-Zadanko na Sieci Neuronowe
+`TODO:` Add readme
